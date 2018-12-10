@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleTvDialog</string>
+    <string name="title_activity_main">Leanback MainActivity Title</string>
+    <string name="dialog_title">Sample Dialog Title</string>
+    <string name="dialog_content">This is sample dialog content. \n  <a href="https://www.google.co.jp">Click here</a></string>
+    <string name="button_ok">OK</string>
+</resources>
